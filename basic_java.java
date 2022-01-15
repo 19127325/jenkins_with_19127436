@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class basic_java {
     public static void main(String[] args) {
         System.out.println("Assignment 3");
         System.out.println("19127325 - Nguyen Huu Hoang An");
